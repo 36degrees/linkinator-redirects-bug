@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "linkinator": "^8.0.4"
+  },
+  "scripts": {
+    "check-links": "linkinator site --recurse"
+  }
+}
